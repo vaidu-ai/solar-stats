@@ -6,20 +6,20 @@ Design system: Vercel Geist light tokens from https://vercel.com/design.md.
 
 Latest source readings:
 
-- Inverter yield today: 39.1 kWh
-- Feed-in export today: 30.6 kWh
-- Grid import today: 7.4 kWh
-- PV1 east channel: 24.2 kWh
-- PV2 west channel: 15.6 kWh
-- PV channel sum: 39.8 kWh
+- Inverter yield today: 36.4 kWh
+- Feed-in export today: 27.0 kWh
+- Grid import today: 4.3 kWh
+- PV1 east channel: 17.2 kWh
+- PV2 west channel: 20.3 kWh
+- PV channel sum: 37.5 kWh
 
 Derived values:
 
-- Solar self-consumed: 8.5 kWh
-- Estimated home consumption: 15.9 kWh
-- Consumption split: 53% solar self-consumed / 47% grid
-- Solar yield destination: 78% exported / 22% used locally
-- PV channel split: 61% PV1 east / 39% PV2 west
+- Solar self-consumed: 9.4 kWh
+- Estimated home consumption: 13.7 kWh
+- Consumption split: 69% solar self-consumed / 31% grid
+- Solar yield destination: 74% exported / 26% used locally
+- PV channel split: 46% PV1 east / 54% PV2 west
 
 Current month generation chart:
 
@@ -43,6 +43,7 @@ Current month generation chart:
 - 18 Jul (Sat): 59.6 kWh
 - 19 Jul (Sun): 62.6 kWh
 - 20 Jul (Mon): 39.5 kWh
-- 21 Jul (Tue): 39.1 kWh
+- 21 Jul (Tue): 39.2 kWh
+- 22 Jul (Wed): 36.4 kWh
 
 Public-safe: no credentials, tokens, private paths, addresses, Home Assistant URLs, or private configuration are committed.
